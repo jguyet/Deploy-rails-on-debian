@@ -10,7 +10,7 @@
 `docker run -it -p 80:80 --rm --name "skill-container" "debian:jessie" "/bin/bash"`  
 
 ##
-# DEPLOY ON VM SIMPLE PROJECT
+# DEPLOY SIMPLE WEB SITE ON VM
 ##
 
 in shell of container  
